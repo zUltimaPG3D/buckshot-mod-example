@@ -1,0 +1,7 @@
+{
+    "id": "example",
+    "name": "Example",
+    "author": "55ar.",
+    "desc": "This is an example mod.",
+    "dependencies": ["settings"],
+}
